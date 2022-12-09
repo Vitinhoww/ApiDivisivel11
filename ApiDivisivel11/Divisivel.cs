@@ -2,8 +2,8 @@
 {
     public class Divisivel
     {
-        public int Numero { get; set; }
+        public int? Numero { get; set; }
 
-        public bool divisivel { get; set; }
+        public bool divisivel  { get; set; }
     }
 }
